@@ -1,0 +1,13 @@
+{
+  "reddit": {
+    "refreshRateMinutes": 2,
+    "keywords": ["reddit.com"]
+  },
+    "youtube": {
+        "refreshTimeMinutes": 480,
+        "keywords": [
+            "youtube.com"
+        ]
+    }
+
+}
